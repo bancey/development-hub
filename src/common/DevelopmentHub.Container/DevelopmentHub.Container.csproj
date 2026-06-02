@@ -16,7 +16,7 @@
   <Import Project="..\..\common\DevelopmentHub.Repositories\DevelopmentHub.Repositories.projitems" Label="Shared" />
   <Import Project="..\..\common\DevelopmentHub.Model\DevelopmentHub.Model.projitems" Label="Shared" />
   <ItemGroup>
-    <PackageReference Include="Microsoft.CodeAnalysis.FxCopAnalyzers" Version="3.0.0">
+    <PackageReference Include="Microsoft.CodeAnalysis.FxCopAnalyzers" Version="3.3.2">
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
     <PackageReference Include="Microsoft.CodeAnalysis.VersionCheckAnalyzer" Version="3.0.0">
